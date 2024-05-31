@@ -2,7 +2,7 @@
 
 Submitted by: **Maggie Killada**
 
-This web app: **Search images taken by the Curiosity Rover on Mars.**
+This web app: **Displays images taken by the Curiosity Rover on Mars.**
 
 Time spent: **5** hours spent in total
 
